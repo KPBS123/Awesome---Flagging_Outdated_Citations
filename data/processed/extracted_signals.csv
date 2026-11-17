@@ -1,0 +1,17 @@
+instance_id,cited_oa_id,title,year,age,T,S_lex,S_nli,N,I,F,binary_label,is_foundational,fine_label
+cs_001,oa_001,Attention Is All You Need,2017,9,0.75,0.6667,0.8525,0.9122,0.2,0.9045,0,True,Foundational-Valid
+cs_002,oa_002,SciBERT: A Pretrained Language Model for Scientific Text,2019,7,0.5833,0.3333,0.6104,0.8368,0.2,0.6957,0,True,Foundational-Valid
+cs_003,oa_003,Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks,2020,6,0.5,1.0,0.1161,0.9531,0.2,0.8077,0,True,Foundational-Valid
+cs_004,oa_004,Structural Scaffolds for Citation Intent Classification in Scientific Publications,2019,7,0.5833,0.3333,0.0426,0.8207,0.2,0.4954,0,True,Foundational-Valid
+cs_005,oa_005,LoRA: Low-Rank Adaptation of Large Language Models,2021,5,0.4167,1.0,0.8555,0.9417,0.5,0.9375,0,True,Foundational-Valid
+cs_006,oa_006,Synthesizing Scientific Literature with Retrieval-Augmented Language Models,2026,0,0.0,0.0,0.0,0.0,0.5,1.0,0,False,Current
+cs_007,oa_007,Adam: A Method for Stochastic Optimization,2014,12,1.0,0.6667,0.163,0.9463,0.2,0.8077,0,True,Foundational-Valid
+cs_008,oa_008,Efficient Estimation of Word Representations in Vector Space,2013,13,1.0,0.6667,0.0432,0.9459,0.2,0.7175,0,True,Foundational-Valid
+cs_009,oa_009,Deep Contextualized Word Representations,2018,8,0.6667,1.0,0.9941,0.9363,1.0,0.7619,1,False,Superseded
+cs_010,oa_010,GloVe: Global Vectors for Word Representation,2014,12,1.0,0.6667,0.0714,0.9144,1.0,0.7338,1,False,Superseded
+cs_011,oa_011,Language Models are Unsupervised Multitask Learners,2019,7,0.5833,0.6667,0.1285,0.9363,1.0,0.6189,1,False,Superseded
+cs_012,oa_012,Sequence to Sequence Learning with Neural Networks,2014,12,1.0,0.6667,0.6963,0.9295,1.0,0.6882,1,False,Superseded
+cs_013,oa_013,RoBERTa: A Robustly Optimized BERT Pretraining Approach,2019,7,0.5833,0.3333,0.0508,0.9173,1.0,0.8789,1,False,Superseded
+cs_014,oa_014,Dense Passage Retrieval for Open-Domain Question Answering,2020,6,0.5,1.0,0.0149,0.8119,0.2,0.7926,1,False,Superseded
+cs_015,oa_015,ImageNet classification with deep convolutional neural networks,2017,9,0.75,1.0,0.3923,0.9222,1.0,0.8856,1,False,Superseded
+cs_016,oa_016,BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding,2019,7,0.5833,0.6667,0.0444,0.8631,1.0,0.9522,1,False,Superseded
